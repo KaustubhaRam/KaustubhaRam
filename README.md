@@ -93,7 +93,7 @@
 # 📊 GitHub Stats:
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaustubhaRam1212%2Fhit-counter)
-![](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=high-contrast)
+![](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=github)
 
 ![](https://gists-readme.yizack.com/api?user=KaustubhaRam)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaustubhaRam&theme=github_dark)
