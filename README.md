@@ -108,9 +108,7 @@
 ### 🔝 Top Contributed Repo
 
 <h2>:zany_face: Joke of the day</h2>
-<details>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
+<a href="https://github.com/ABSphreak/readme-jokes">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</a>
 
