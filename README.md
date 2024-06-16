@@ -98,7 +98,7 @@
 
 ![](https://gists-readme.yizack.com/api?user=KaustubhaRam)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark&hide_border=false)<br/>
+https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark<br/>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaustubhaRam&theme=github_dark)
