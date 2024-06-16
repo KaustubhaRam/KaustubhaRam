@@ -12,6 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kaustubharam)](https://github.com/KaustubhaRam/github-contribution-stats/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaustubhaRam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -20,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kaustubharam)](https://github.com/KaustubhaRam/github-contribution-stats/)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kaustubharam)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
