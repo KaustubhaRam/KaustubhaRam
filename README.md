@@ -101,12 +101,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark)<br/>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaustubhaRam&theme=github_dark)
-
-
-
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaustubhaRam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
