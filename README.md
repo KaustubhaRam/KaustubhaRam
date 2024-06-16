@@ -22,7 +22,7 @@
 
 ### 🔝 Top Contributed Repo
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KaustubhaRam)
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B%2B&hide_contributor_rank=false&limit=5)
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/'"/>
 
