@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&hCenter=true&random=false&width=600&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=600&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Kaustubha Ram</h1>
 <h3 align="center">A passionate data scientist/analyst and machine learning enthusiast from India</h3>
 # 💫 About Me:
