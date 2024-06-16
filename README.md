@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
+
+
+<h1 align="center">👋, I'm Kaustubha Ram</h1>
+<h3 align="center">A passionate data scientist/analyst and machine learning enthusiast from India</h3>
 # 💫 About Me:
 🔭 I’m currently working on Titanic Survival Prediction Project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Machine Learning and App Development<br>💬 Ask me about <br>⚡ Fun fact
 
@@ -27,8 +31,6 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Kaustubha Ram</h1>
-<h3 align="center">A passionate data scientist/analyst and machine learning enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubharam&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubharam" /> </p>
 
