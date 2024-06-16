@@ -90,15 +90,14 @@
 
 
 
-
+# 📊 GitHub Stats:
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaustubhaRam1212%2Fhit-counter)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=high-contrast)
 
 ![](https://gists-readme.yizack.com/api?user=KaustubhaRam)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaustubhaRam&theme=github_dark)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kaustubharam)](https://github.com/KaustubhaRam/github-contribution-stats/)<br/>
