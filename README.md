@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact))<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kaustubharam)](https://github.com/KaustubhaRam/github-contribution-stats/)<br/>
 
 ## 🏆 GitHub Trophies
