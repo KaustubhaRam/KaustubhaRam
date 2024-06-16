@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 
-
-<h1 align="center">👋, I'm Kaustubha Ram</h1>
+Hi 👋, I'm Kaustubha Ram
 <h3 align="center">A passionate data scientist/analyst and machine learning enthusiast from India</h3>
 # 💫 About Me:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
