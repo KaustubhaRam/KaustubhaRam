@@ -93,7 +93,7 @@
 
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme={tokyo-night})
+![](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=tokyo-night)
 
 ![](https://gists-readme.yizack.com/api?user=KaustubhaRam)
 # 📊 GitHub Stats:
