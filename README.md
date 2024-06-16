@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KaustubhaRam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Kaustubha Ram's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KaustubhaRam
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
