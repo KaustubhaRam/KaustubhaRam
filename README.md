@@ -96,6 +96,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=high-contrast)
 
 ![](https://gists-readme.yizack.com/api?user=KaustubhaRam)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaustubhaRam&theme={github_dark}
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark&hide_border=false)<br/>
