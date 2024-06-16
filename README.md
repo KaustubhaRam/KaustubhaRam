@@ -109,7 +109,6 @@
 
 <h2>:zany_face: Joke of the day</h2>
 <details>
-    <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
