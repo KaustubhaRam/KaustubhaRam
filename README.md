@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I’m currently working on Titanic Survival Prediction Project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Machine Learning and App Development<br>💬 Ask me about <br>⚡ Fun fact
 
