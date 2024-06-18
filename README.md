@@ -102,7 +102,7 @@
 </div>
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=KaustubhaRam&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/></div><br>
+</div>
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 <h2>:zany_face: Joke of the day</h2>
