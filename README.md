@@ -91,14 +91,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaustubhaRam1212%2Fhit-counter)
-![](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=github)
+<div style="text-align:center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaustubhaRam1212%2Fhit-counter"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=github"/><br/>
 ![Contribution Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaustubhaRam&theme=dark)
 
-![](https://gists-readme.yizack.com/api?user=KaustubhaRam)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark)<br/>
-
+<img src="https://gists-readme.yizack.com/api?user=KaustubhaRam"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark"><br/>
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaustubhaRam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
