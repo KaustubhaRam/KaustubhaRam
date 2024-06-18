@@ -101,7 +101,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark"><br/>
 </div>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaustubhaRam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=KaustubhaRam&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
