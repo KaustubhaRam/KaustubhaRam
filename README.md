@@ -94,10 +94,10 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: auto;">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaustubhaRam1212%2Fhit-counter"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaustubhaRam&theme=github"/><br/>
-<!-- <img src="https://green-wall.leoku.dev/api/og/share/KaustubhaRam" alt="My contributions"><br> -->
+<img src="https://green-wall.leoku.dev/api/og/share/KaustubhaRam" alt="My contributions"><br> 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaustubhaRam&theme=dark"/>
 
-<img src="https://gists-readme.yizack.com/api?user=KaustubhaRam"/><br/>
+<!--<img src="https://gists-readme.yizack.com/api?user=KaustubhaRam"/><br/>-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhaRam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaustubhaRam&theme=dark"><br/>
 </div>
