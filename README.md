@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=600&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
-<h1 align="center">Hi 👋, I'm Kaustubha Ra</h1>
+<h1 align="center">Hi 👋, I'm Kaustubha Ram</h1>
 <h3 align="center">A passionate data scientist/analyst and machine learning enthusiast from India</h3>
 # 💫 About Me:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
